@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nji:home|Door43 (nji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nji|d43-nji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nji/archive/master.zip|d43-nji.zip]]
+
+**Recent Changes**
+{{changes>ns = nji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nji|Ethnologue data]]
+
